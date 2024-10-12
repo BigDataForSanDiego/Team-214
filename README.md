@@ -12,8 +12,9 @@
 >   - A visual that shows what your idea is (can be a sketch, photo, wireframe, etc.)
 > - Make sure to think about the Hackathon theme, how this will help the user experience, how data will be incorporated and what problem it aims to solve. 
 
-
-
+Our Words: Luminous Galaxy
+Our team is "luminous" and "galaxy".
+We will solve a problem related to the heat death of the universe.
 
 
 
